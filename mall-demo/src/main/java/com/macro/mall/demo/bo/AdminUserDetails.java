@@ -10,7 +10,6 @@ import java.util.Collection;
 
 /**
  * SpringSecurity需要的用户详情
- * Created by macro on 2018/4/26.
  */
 public class AdminUserDetails implements UserDetails {
     private UmsAdmin umsAdmin;
